@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for marco.</name>
+		<atom:link rel="related" href="http://www.clinicadeodonto.com.br" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Maria Alcione Da Silva]]></name>
+				<address><![CDATA[R. Etelvino Lins, Por trás do Detran, Monteiro, 58500-000, Brazil]]></address>
+				<phoneNumber><![CDATA[ 558399761639]]></phoneNumber>
+				<description><![CDATA[Clínica Odontológica Dra Maria Alcione Da Silva - Monteiro PB - Dentista. Os mais recomendados dentistas de Monteiro: veja opiniões, verifique a disponibilidade e agende sua consulta online em segundos.]]></description>
+				<Point>
+					<coordinates>-37.1238965,-7.8915596,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

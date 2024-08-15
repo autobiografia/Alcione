@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: MLBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Crawl-Delay: 2
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: petalbot
+Disallow: /
+
+User-agent: neticle.hu
+Disallow: /
+
+Sitemap: https://www.clinicaodontologica.online/sitemap.xml
