@@ -126,7 +126,7 @@ if (!self.__WB_pmw) {
     if (nameValid && emailValid && messageValid) {
       var text = "Nome: " + name + "%0DEmail: " + email + "%0D%0D" + message;
       var url =
-        "https://web.archive.org/web/20211222054732/https://api.whatsapp.com/send?phone=558399761639&text=" +
+        "https://api.whatsapp.com/send?phone=558399761639&text=" +
         text;
       window.open(url, "_blank");
     }
